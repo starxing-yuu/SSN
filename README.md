@@ -63,7 +63,7 @@ fashion-iq/
     └──......
 ```
 
-### Train
+## Train
 
 ```
 python train_cirr.py 
@@ -86,7 +86,7 @@ python train_cirr.py
 
 ---
 
-### Citation
+## Citation
 
 If you find our work useful, please cite our paper:
 
@@ -104,7 +104,7 @@ year={2024}
 
 ---
 
-### Acknowledgement
+## Acknowledgement
 
 We thank [CLIP4Cir](https://github.com/ABaldrati/CLIP4Cir) for their great codebase.
 
